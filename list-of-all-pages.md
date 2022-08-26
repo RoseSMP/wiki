@@ -14,6 +14,8 @@ A list of all wiki pages in the RoseSMP wiki, listed in alphabetical order.
 
 ### F
 
+ - [Fizzdev](fizzdev)
+
 ### G
 
 ### H
@@ -41,6 +43,8 @@ A list of all wiki pages in the RoseSMP wiki, listed in alphabetical order.
 ### R
 
 ### S
+
+ - [The Server](server)
 
 ### T
 
