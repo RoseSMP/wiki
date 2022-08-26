@@ -23,7 +23,7 @@ ALL wiki pages should be placed at the "root" of the repository. The only except
 ALL files (photos) should be in the `src` directory. They should be linked to like so:
 
 ```markdown
-![Image Description, for accessibility](src/randomimage.png)
+![Image Description, for accessibility](src/random-image.png)
 ```
 
 Photo's names should be lowercase and hypenated, concisely describing what they're a picture of.
@@ -68,12 +68,12 @@ You should be as unbiased as you can in the way that you portray events, people,
 Links from one wiki page to another should not include any slashes (`/`) or file extensions (like `.md`). Instead they should link to the page directly. For example:
 
 ```markdown
-[Matt Rose](roseman)
+[Matt Rose](matt-rose)
 ```
 If you are linking to a specific portion of a page, link to that specific heading:
 
 ```markdown
-[Matt Rose](roseman#Youtube_Carrer)
+[Matt Rose](matt-rose#Youtube_Carrer)
 ```
 
 Meta pages should be linked to with only **one slash**, like so:
