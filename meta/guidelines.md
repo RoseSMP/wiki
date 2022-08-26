@@ -23,8 +23,10 @@ ALL wiki pages should be placed at the "root" of the repository. The only except
 ALL files (photos) should be in the `src` directory. They should be linked to like so:
 
 ```markdown
-![]
+![Image Description, for accessibility](src/randomimage.png)
+```
 
+Photo's names should be lowercase and hypenated, concisely describing what they're a picture of.
 
 ### Meta
 
