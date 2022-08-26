@@ -17,4 +17,4 @@ Wanna add a page, edit something, or contribute to the wiki in any way? Then you
 
 ## Rules
 
-Make sure to read the [contribution guidelines](guidelines.md).
+Make sure to read the [contribution guidelines](guidelines) before contributing.
