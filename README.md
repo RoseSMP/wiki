@@ -4,4 +4,5 @@
 
 RoseSMP is a community and minecraft server started by the community surrounding the british youtuber [Matt Rose](matt-rose).
 
-[Contribute!](meta/contributing)
+------
+[Contribute!](meta/contributing)    [List of All Pages](list-of-all-pages)
