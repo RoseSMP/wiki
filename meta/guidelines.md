@@ -55,7 +55,7 @@ and for pages that need review:
 
 ### Tone
 
-Try to sound like a wikipedia article, it makes it more fun. If you want, you can read the [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style) if you really want to.
+Try to sound like a wikipedia article, it makes it more fun. You can read the [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style) if you really want to.
 
 
 ### Bias and Prejudice
