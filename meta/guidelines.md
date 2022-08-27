@@ -73,7 +73,7 @@ Links from one wiki page to another should not include any slashes (`/`) or file
 If you are linking to a specific portion of a page, link to that specific heading:
 
 ```markdown
-[Matt Rose](matt-rose#Youtube_Carrer)
+[Matt Rose](matt-rose#youtube-career)
 ```
 
 Meta pages should be linked to with only **one slash**, like so:
