@@ -30,7 +30,7 @@ Photo's names should be lowercase and hypenated, concisely describing what they'
 
 ### Meta
 
-Pages talking about the wiki itself should be in [`/wiki/meta/`](/wiki/meta/). 
+Pages talking about the wiki itself should be in `/meta` 
 
 
 ## Writing
