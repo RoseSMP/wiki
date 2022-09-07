@@ -11,9 +11,6 @@ Wanna add a page, edit something, or contribute to the wiki in any way? Then you
     ![RoseSMP/Wiki on GitHub](/src/github-rosesmp-wiki.png)
 
 3. Create a "Fork" for you to edit and make changes to.
-    
-    <details>
-      <summary><strong>More info on Forking</strong></summary>
 
     1. Click "Fork" on the repository page
 
@@ -27,18 +24,11 @@ Wanna add a page, edit something, or contribute to the wiki in any way? Then you
 
         ![Forked repository](/src/github-thekrafter-wiki-fork.png)
 
-    Now you have a place to put all your edits to the wiki.
-
-    </details>
-
-    
+    Now you have a place to put all your edits to the wiki.    
 
 4. Make your changes! Edit the files in your fork in whatever way you like; [Github.dev](https://github.dev/github/dev), the built-in code editor on github.com, or locally in your own code editor (the [Github Desktop](https://desktop.github.com/) app helps a lot with this).
 
     * Don't know markdown? Dont worry! It's quite simple, click [here](markdown) for a quick how-to.
-
-    <details>
-      <summary><strong>Visual how-to on editing</strong></summary>
 
     1. Go to the file you'd like to edit (within the fork you made earlier)
 
@@ -58,12 +48,8 @@ Wanna add a page, edit something, or contribute to the wiki in any way? Then you
 
     1. Once you've made the changes you want, continue to the next step.
 
-    </details>
 
 5. Make a Pull Request! Go to the [Pull Request](https://github.com/RoseSMP/wiki/pulls) page of the repository, and click on the big green button that says "New pull request" and click "compare across forks" at the top. Select your fork on the right, and follow the prompts.
-
-    <details>
-        <summary><strong>Visual how-to on making pull requests </strong></summary>
 
     1. Go to the [Pull Requests page](https://github.com/RoseSMP/wiki/pulls) on github, and click "New Pull Request"
 
@@ -89,7 +75,6 @@ Wanna add a page, edit something, or contribute to the wiki in any way? Then you
 
         ![Ready PR](/src/github-pr-done.png)
 
-    </details>
 
 6. Wait for it to be approved. Once it's approved, your changes will be built and deployed to the site! You can see the site being built and deployed on the [actions](https://github.com/RoseSMP/wiki/actions) page of the repository
 

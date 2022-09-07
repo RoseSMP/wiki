@@ -80,21 +80,6 @@ etc, all the way to
     * this
 * ok?
 
-```
-<details>
-  <summary>Collapsible (click me)</summary>
-
-Text goes here. make sure to have these empty lines
-
-</details>
-```
-
-<details>
-  <summary>Collapsible (click me)</summary>
-
-Text goes here. make sure to have these empty lines
-
-</details>
 
 ## Links and Embeds
 
