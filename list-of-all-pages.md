@@ -2,6 +2,8 @@
 
 A list of all wiki pages in the RoseSMP wiki.
 
-{% for page in site.pages %}
-{{ page.title}} | {{ page.last_modified_at | date: '%s' }}
-{% endfor %}
+<ul>
+    {% for doc in site.la %}
+    	<li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+    {% endfor %}
+</ul>
