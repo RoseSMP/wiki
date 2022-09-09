@@ -82,3 +82,13 @@ Meta pages should be linked to with only **one slash**, like so:
 [Contribute!](meta/contributing)
 ```
 Meta pages linking to each other should follow the rules for linking between wiki pages.
+
+### Places with warps
+
+if a place has a warp (`/warp`) to it, put that at the top of it's page, just under the title. Like so:
+
+```markdown
+##### Warp: `/warp warpname`
+```
+
+Where `warpname` is the name of the warp.
