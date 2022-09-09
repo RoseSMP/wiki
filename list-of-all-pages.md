@@ -2,6 +2,12 @@
 
 A list of all wiki pages in the RoseSMP wiki.
 
-{% for page in site.pages %}
- - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
