@@ -1,3 +1,3 @@
-# It's a suprise tool that may help us later
-#source "https://rubygems.org"
-#gem "jekyll-index-pages"
+# from https://github.com/rukbotto/jekyll-index-pages
+source "https://rubygems.org"
+gem "jekyll-index-pages"
