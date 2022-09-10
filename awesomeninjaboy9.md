@@ -1,2 +1,4 @@
 # AwesomeNinjaBoy9
-> THIS IS AN EMPTY PLACEHOLDER PAGE [ADD TO IT](/meta/contributing.md).
+> THIS ARTICLE IS **INCOMPLETE!** YOU CAN HELP BY [CONTRIBUTING TO IT](meta/contributing).
+
+Awesome ninja boy 9 is one of the [Nine Souls](nine-souls)
