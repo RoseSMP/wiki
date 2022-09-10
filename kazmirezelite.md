@@ -20,24 +20,24 @@ Lucia adopts Zero
 
 ### Lucia
 ![Lucia](https://cdn.discordapp.com/attachments/799854341698748416/1018278454757691392/unknown.png)
--The Original ego
--Doesn't know how Rosetta and Alpha existed, probably from PTSD ([Persona Telepathic Sleep Device](https://www.youtube.com/watch?v=7_68Vfhyyrc))
--Possibly the purest person on the SMP
+- The Original ego
+- Doesn't know how Rosetta and Alpha existed, probably from PTSD ([Persona Telepathic Sleep Device](https://www.youtube.com/watch?v=7_68Vfhyyrc))
+- Possibly the purest person on the SMP
 
 ### Alpha
 ![Alpha](https://cdn.discordapp.com/attachments/799854341698748416/1018280030834544730/unknown.png)
--The youngest ego
--Impulsive, but will protect anyone she cares about
--One of the most impurest people on the SMP
+- The youngest ego
+- Impulsive, but will protect anyone she cares about
+- One of the most impurest people on the SMP
 
 ### Rosetta
 ![Rosetta, cyborg form](https://cdn.discordapp.com/attachments/799854341698748416/1018281449918562344/unknown.png)
 ![Rosetta, human form](https://cdn.discordapp.com/attachments/799854341698748416/1018281921052164116/unknown.png)
--The oldest in mental age out of all 3 egos
--Is a half cyborg, can switch from being a cyborg to a normal human, but mostly stays in human form
--Very motherly towards Lucia and Alpha
+- The oldest in mental age out of all 3 egos
+- Is a half cyborg, can switch from being a cyborg to a normal human, but mostly stays in human form
+- Very motherly towards Lucia and Alpha
 
 ### Trivia
--Alpha doesn't hate Rosetta, it's just that Alpha doesn't have a way of returning Rosetta's affection.
--There are 2 instances of Lucia, Rosetta, and Alpha working together.
--Each day is chaotic with them.
+- Alpha doesn't hate Rosetta, it's just that Alpha doesn't have a way of returning Rosetta's affection.
+- There are 2 instances of Lucia, Rosetta, and Alpha working together.
+- Each day is chaotic with them.
