@@ -1,6 +1,9 @@
 # Contributing
 Wanna add a page, edit something, or contribute to the wiki in any way? Then you're on the right page! Keep reading...
 
+## Before You Start
+
+Make sure to read through the [Guidelines](guidelines), and read the [Markdown Page](markdown) for how to format your pages in markdown.
 
 ## Step-by-step Instructions
 
@@ -77,8 +80,3 @@ Wanna add a page, edit something, or contribute to the wiki in any way? Then you
 
 
 6. Wait for it to be approved. Once it's approved, your changes will be built and deployed to the site! You can see the site being built and deployed on the [actions](https://github.com/RoseSMP/wiki/actions) page of the repository
-
-
-## Rules
-
-Make sure to read the [contribution guidelines](guidelines) before contributing.
