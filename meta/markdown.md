@@ -1,4 +1,4 @@
-# Markdown
+# Meta: Markdown
 Markdown is a simple formatting language that this wiki uses to make it's pages. Read on for how to use it! For a more in-depth tutorial see [the github docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 For normal text, just type it.
