@@ -1,6 +1,6 @@
 # Zero Aura
 
-Zero is a non-binary robot [Serial Number 7391123]. He can collect soul sand and put in a soul torch. His task is to protect [AwesomNinjaBoy](awesomeninjaboy9)'s 
+Zero is a non-binary robot [Serial Number 7391123]. He can collect soul sand and put in a soul torch. His task is to protect [AwesomNinjaBoy](awesomeninjaboy9)'s soul and stop "Creator's" plans
 
 -----
 #### Log 1
