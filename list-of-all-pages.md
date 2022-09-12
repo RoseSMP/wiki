@@ -2,6 +2,8 @@
 
 A list of all wiki pages in the RoseSMP wiki.
 
+<!-- NOTE TO CONTRIBUTORS: This page auto-generates itself thanks to the magic of Jekyll and Liquid. DO NOT EDIT IT!!! -->
+
 <ul>
   {% for pg in site.pages %}
     <li>
