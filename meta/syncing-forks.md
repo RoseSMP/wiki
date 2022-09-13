@@ -10,6 +10,6 @@ Just click on "Sync fork", then "Update Branch"
 
 ![Sync Fork](/src/github-fork-sync.png)
 
-Your fork is not up to date!
+Your fork is now up to date!
 
 ![It's up to date now!](/src/github-fork-synced.png)
