@@ -27,7 +27,7 @@ Make sure to read through the [Guidelines](guidelines), and read the [Markdown P
 
         ![Forked repository](/src/github-thekrafter-wiki-fork.png)
 
-    Now you have a place to put all your edits to the wiki.    
+    Now you have a place to put all your edits to the wiki. Make sure to [sync your fork](syncing-forks) so it is up-to-date with the latest changes.   
 
 4. Make your changes! Edit the files in your fork in whatever way you like; [Github.dev](https://github.dev/github/dev), the built-in code editor on github.com, or locally in your own code editor (the [Github Desktop](https://desktop.github.com/) app helps a lot with this).
 
