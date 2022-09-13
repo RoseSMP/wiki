@@ -1,4 +1,4 @@
-# Meta: Syncing Your Fork
+# [Meta](/meta): Syncing Your Fork
 
 You May have noticed this message at the top of your fork:
 

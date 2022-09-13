@@ -1,4 +1,4 @@
-# Meta: Guidelines
+# [Meta](/meta): Guidelines
 
 How to structure pages, and all the rules you should follow
 

@@ -1,4 +1,4 @@
-# Meta: Contributing
+# [Meta](/meta): Contributing
 Wanna add a page, edit something, or contribute to the wiki in any way? Then you're on the right page! Keep reading...
 
 ## Before You Start
