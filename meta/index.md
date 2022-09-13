@@ -11,7 +11,7 @@ Here's a list of all the useful pages here you might need:
 
 <ul>
   {% for pg in site.pages %}
-      {% if pg.url includes 'meta' %}
+      {% if pg.url contains 'meta' %}
     <li>
       <a href="{{ pg.url }}">{{ pg.title }}</a>
     </li>
