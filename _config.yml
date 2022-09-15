@@ -1,6 +1,5 @@
 include: 
   - /meta
-  #- /cmds # DO NOT INCLUDE YET! Krafter will include once it's ready
 remote_theme: RoseSMP/clean
 plugins:
   - jekyll-remote-theme
