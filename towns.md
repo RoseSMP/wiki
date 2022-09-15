@@ -1,5 +1,6 @@
-![Towns](/src/eee.png)
+
 # Towns
+![Towns](/src/towns.png)
 
 > THIS ARTICLE IS **INCOMPLETE!** YOU CAN HELP BY [CONTRIBUTING TO IT](meta/contributing).
 
