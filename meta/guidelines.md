@@ -10,9 +10,15 @@ How to structure pages, and all the rules you should follow
 Files are in [markdown](https://github.com/marketplace/actions/markdown-docs), a formatting language. It is fairly simple to learn, [read this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) to get started. Files *should* follow the [*Markdown Styleguide*](https://github.com/style-guides/Markdown), but we're not too strict about that.
 
 
-### File names
+### File Names and Titles
 
 All markdown files should be named according to the page's title (omitting "The", or any other [articles](https://www.grammarly.com/blog/articles/)), lowercased, and pages with multiple words in the title should be hyphenated. For example, a page titled "*The Shopping District*" would be in a file called "shopping-district.md"
+
+The Title of a page should be expressed in a header on the very first line of the page.
+
+```markdown
+# Like This
+```
 
 
 
