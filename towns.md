@@ -5,7 +5,7 @@
 
 > THIS ARTICLE IS **INCOMPLETE!** YOU CAN HELP BY [CONTRIBUTING TO IT](meta/contributing).
 
-Johnathan Johnston Phillip Towns Minecraft Jr. Esq. III, also known in-game as T0wns and IRL as Tim, is a 13 year old US-based Minecrafter. He is a member of Dragonvale and an attorney-at-law.
+Johnathan Johnston Phillip Towns Minecraft Jr. Esq. III, also known in-game as T0wns and IRL as Tim, is a 13 year old US-based Minecrafter but canonically is (π³)^√-1. He is a member of Dragonvale and an attorney-at-law.
 
 ## Discord Introduction
 
