@@ -2,4 +2,4 @@
 
 > THIS ARTICLE IS **INCOMPLETE!** YOU CAN HELP BY [CONTRIBUTING TO IT](meta/contributing).
 
-The minecraft server, known as "The Server" is a female with a buoyant and kind personality. She is currently in a relationship with [Fizzdev](fizzdev). 
+The minecraft server, known as "The Server" is a female with a buoyant and kind personality. She is currently in a relationship with [Fizzdev](fizzdev). She is capable of communication via the "Minecraft Bot" Discord bot.
