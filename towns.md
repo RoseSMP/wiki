@@ -25,11 +25,11 @@ Don't disturb me, I'm plotting your demise.
 ## Family
 
 * Towns is the biological son of Yosh27.
-* Towns is the adopted son of [ZeroAura](zeroaura.html).
-* Towns is the brother of [Bazilleaf](bazilleaf.html).\
+* Towns is the adopted son of [ZeroAura](zeroaura).
+* Towns is the brother of [Bazilleaf](bazilleaf).\
 * Towns is the brother of Grassyier.
 * Towns is the nephew of Lthegamer.
-* Towns is the adopted grandson of [Krafter](krafter.html)
+* Towns is the adopted grandson of [Krafter](krafter)
 * Towns is the grandson of ImUltraMC.
 * Towns is the father of Lord Johnathon Johnathan Jonathon Jonathan Johnston Phillip Dog Minecraft IV.
 
