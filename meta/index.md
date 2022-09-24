@@ -1,4 +1,5 @@
 # Meta
+> **THE WIKI HAS MOVED [HERE](https://newwiki.luminamc.com). WE ARE NOW USING MEDIAWIKI.**
 <!---
 
 NOTE TO CONTRIBUTORS: 

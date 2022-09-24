@@ -1,5 +1,7 @@
 # [Meta](/meta): Guidelines
 
+> **THE WIKI HAS MOVED [HERE](https://newwiki.luminamc.com). WE ARE NOW USING MEDIAWIKI.**
+
 How to structure pages, and all the rules you should follow
 
 
