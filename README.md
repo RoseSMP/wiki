@@ -1,6 +1,6 @@
 # Welcome to the RoseSMP wiki!
 
-> **THE WIKI HAS MOVED [HERE](https://wiki.luminamc.com). WE ARE NOW USING MEDIAWIKI.**
+> **THE WIKI HAS MOVED [HERE](https://www.luminamc.com/forum/). WE ARE NOW USING NAMELESSMC.**
 
 RoseSMP is a community and minecraft server created by [fizz](fizz) and started by the community surrounding the british youtuber [Matt Rose](matt-rose).
 
